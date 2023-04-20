@@ -46,6 +46,7 @@
     "no-console": "off",
     "no-alert": "off",
     "no-restricted-globals": "off",
+    "no-extraneous-dependencies": "off",
     "camelcase": "off",
     "no-plusplus": "off"
   },
